@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @teenpianist
 - 👀 I’m interested in cyber security.
-- 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently learning Python.
 - 📫 How to reach me kasimtopaktas70@gmail.com
 
 <!---
